@@ -225,6 +225,7 @@
         "https://canvas.kdg.be/*",
         "https://canvas.liverpool.ac.uk/*",
         "https://canvas.moravian.edu/*",
+        "https://aueems.cce.af.mil/*",
         "https://canvas-prod.ccsnh.edu/*"
       ],
       "css":[
